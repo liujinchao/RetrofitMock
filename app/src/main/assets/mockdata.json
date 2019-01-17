@@ -1,0 +1,12 @@
+{
+  "common/getversion": {
+    "code": 200,
+    "message": "测试一下",
+    "data": {
+      "version": "5.2.1",
+      "url": "http://test.com/test.apk",
+      "description": "1.  全新UI体验\r\n2.  优化性能，修复已知问题",
+      "forceUpdate": false
+    }
+  }
+}
